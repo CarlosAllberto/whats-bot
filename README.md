@@ -19,6 +19,12 @@ npm install
 node index.js
 ```
 
+Em uma linha:
+
+```
+git clone https://github.com/CarlosAllberto/WhatsBot && cd WhatsBot && sudo apt install node npm -y && npm install && node index.js --help
+```
+
 ### 💻 Derivados do Arch:
 
 ```
@@ -32,7 +38,7 @@ node index.js
 Em uma linha:
 
 ```
-git clone https://github.com/CarlosAllberto/WhatsBot && cd WhatsBot && sudo pacman -S nodejs npm -y && npm install && node index.js
+git clone https://github.com/CarlosAllberto/WhatsBot && cd WhatsBot && sudo pacman -S nodejs npm -y && npm install && node index.js --help
 ```
 
 ## Run:
