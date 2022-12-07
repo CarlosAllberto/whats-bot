@@ -60,7 +60,7 @@ optional arguments:
   -n NUMBER, --number NUMBER    whatsapp number
 ```
 
-caso não passe nenhum numero por parametro o script pegara numeros da lista: numbers.txt 
+`caso não passe nenhum numero por parametro o script pegara numeros da lista: numbers.txt`
 
 ## License
 
