@@ -1,15 +1,18 @@
 <h1 align=center>🤖WhatsBot</h1>
 
-<h3 align=center>Bot para WhatsApp</h3>
+<h3 align=center>Bot para WhatsApp usando Node.js</h3>
 
-WhatsBot é um script que automatiza o navegador/browser usando puppeteer para o envio de mensagems no whatsapp de forma automatica. 
+WhatsBot é um script em `Node.js` que automatiza o navegador/browser usando `puppeteer` para o envio de mensagems no whatsapp de forma automatica. 
 
 <div align=center>
 <img src="img.png" width="70%"/>
 </div>
 
 ## Instalação:
-### 💻 Derivados do Debian:
+
+<div style="display: flex;">  
+    <img width="30px" src="https://www.debian.org/logos/openlogo-nd.svg"/>
+</div>
 
 ```
 git clone https://github.com/CarlosAllberto/WhatsBot
@@ -25,7 +28,11 @@ Em uma linha:
 git clone https://github.com/CarlosAllberto/WhatsBot && cd WhatsBot && sudo apt install node npm -y && npm install && node index.js --help
 ```
 
-### 💻 Derivados do Arch:
+<br/>
+
+<div style="display: flex;">  
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"/>
+</div>
 
 ```
 git clone https://github.com/CarlosAllberto/WhatsBot
