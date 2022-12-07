@@ -1,5 +1,9 @@
 <h1 align=center>🤖WhatsBot</h1>
 
+## License
+
+[![License: MIT](https://img.shields.io/github/license/gcla/termshark.svg?color=yellow)](LICENSE)
+
 <h3 align=center>Bot para WhatsApp usando Node.js</h3>
 
 WhatsBot é um script em `Node.js` que automatiza o navegador/browser usando `puppeteer` para o envio de mensagems no whatsapp de forma automatica. 
