@@ -1,0 +1,18 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Carlos Alberto",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "axios": "^1.2.1",
+    "colors": "^1.4.0",
+    "puppeteer": "^19.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
